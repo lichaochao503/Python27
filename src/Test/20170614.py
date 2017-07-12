@@ -7,4 +7,5 @@ Created on Jun 14, 2017
 
 if __name__ == '__main__':
     pass
-print '你好'
+print '你好啊'
+print "你好，世界";
